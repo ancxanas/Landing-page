@@ -32,3 +32,39 @@ button, .call
     {
         background-color: #3882f6;
     }
+.randinf
+    {
+        font-size: 36px;
+        font-weight: bolder;
+        color: #1f2937;
+    }
+.quote
+    {
+        background-color: #e5e7eb;
+    }
+.quotetext
+    {
+        font-size: 36px;
+        font-style: italic;
+        color: #1f2937;
+    }
+footer
+    {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+ul
+    {
+        display: flex;
+        margin: 0;
+        padding: 0;
+        gap: 10px;
+    }
+.head
+    {
+     padding: 8px;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;   
+    }
