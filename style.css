@@ -113,3 +113,17 @@ ul
     {
         max-width: 200px;
     }
+.quotecontainer
+    {
+        padding: 56px;
+        margin: 36px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+.subtext
+    {
+        font-weight: bold;
+        display: flex;
+        align-self: flex-end;
+    }
