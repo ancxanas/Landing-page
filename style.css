@@ -68,3 +68,20 @@ ul
      justify-content: space-around;
      align-items: center;   
     }
+.home
+    {
+        padding: 56px;
+        margin: 56px;
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+.signup
+    {
+        padding: 8px;
+        width: 100px;
+        border: none;
+        border-radius: 8px;
+        font-weight: bold;
+        color: #e5e7eb;
+    }
